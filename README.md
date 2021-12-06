@@ -1,6 +1,6 @@
 - 👋 Olá, Meu nome é Matheus Araújo da Cunha      
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 🌱 Atualmente estou aprendendo React
 - 💞️  Atualmente estudando na Kenzie Academy                    
 
 
