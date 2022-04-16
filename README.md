@@ -1,8 +1,6 @@
 ## Olá, Eu sou o Matheus Araújo!
 
-- 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo Python/Flask
-- 💞️  Atualmente estudando na Kenzie Academy                    
+              
 
 <div align="center">
   <a href="https://github.com/matheus-araujo-cunha">
