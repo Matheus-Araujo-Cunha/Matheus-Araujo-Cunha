@@ -1,6 +1,26 @@
-## Olá, Eu sou o Matheus Araújo!
+## Olá, Seja bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+Meu nome é Matheus Araújo e sou Desenvolvedor Full Stack. Comecei na área da programação como um pequeno hobby, mas conforme fui aprendendo, decidi iniciar uma carreira como Desenvolvedor e sigo em busca da minha primeira oportunidade.
 
-              
+- Atualmente aprendendo o framework NextJS, e um pouco de Java.
+- Moro atualmente em Sobral - CE
+- Além de codar, gosto de animais, séries, livros e praticar exercícios :)
+
+
+##  Tecnologias
+![ HTML5 ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![ CSS3 ](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![ JavaScript ](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![ Python ](https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=React.js)
+![ Nodejs ](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![ MongoDB ](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![ Git ](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![ Python ](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![ Flask ](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![ Django ](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
+
+
 
 <div align="center">
   <a href="https://github.com/matheus-araujo-cunha">
