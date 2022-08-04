@@ -39,13 +39,9 @@ Meu nome é Matheus Araújo e sou Desenvolvedor Full Stack. Comecei na área da 
  ## Me Siga
   
 <div>
-[![ Emblema do Linkedin ](https://img.shields.io/badge/--minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaraujocunha/)] (https://www.linkedin.com/in/matheusaraujocunha/)
-
-[![ Emblema do Linkedin ](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)] (https://www.linkedin.com/in/minoveaz/)
-
-
 <a href="https://www.linkedin.com/in/matheus-ara%C3%BAjo-108ab0213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/matheus_araujo_cunha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/batore_caramujo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
   
   
